@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "activity": "Tenant onboarding completed",
+    "dateTime": "2024-11-16T10:30:00Z",
+    "status": "completed",
+    "address": "123 Main St, New York, NY"
+  },
+  {
+    "id": 2,
+    "activity": "Scheduled plumbing repair",
+    "dateTime": "2024-11-17T14:00:00Z",
+    "status": "pending",
+    "address": "456 Elm St, Los Angeles, CA"
+  },
+  {
+    "id": 3,
+    "activity": "Received rent payment for Apartment #202",
+    "dateTime": "2024-11-15T18:45:00Z",
+    "status": "completed",
+    "address": "789 Oak St, Chicago, IL"
+  },
+  {
+    "id": 4,
+    "activity": "Property inspection completed",
+    "dateTime": "2024-11-14T09:00:00Z",
+    "status": "completed",
+    "address": "101 Pine Ave, Seattle, WA"
+  },
+  {
+    "id": 5,
+    "activity": "HVAC system inspection scheduled",
+    "dateTime": "2024-11-18T12:15:00Z",
+    "status": "pending",
+    "address": "202 Maple Rd, Austin, TX"
+  },
+  {
+    "id": 6,
+    "activity": "Updated rental ad for Downtown Studio",
+    "dateTime": "2024-11-13T16:30:00Z",
+    "status": "completed",
+    "address": "303 Birch St, San Francisco, CA"
+  },
+  {
+    "id": 7,
+    "activity": "Generated monthly revenue report",
+    "dateTime": "2024-11-12T08:00:00Z",
+    "status": "completed",
+    "address": "404 Walnut Blvd, Miami, FL"
+  },
+  {
+    "id": 8,
+    "activity": "Move-out inspection for Unit #104",
+    "dateTime": "2024-11-19T11:00:00Z",
+    "status": "pending",
+    "address": "505 Cedar Ln, Denver, CO"
+  },
+  {
+    "id": 9,
+    "activity": "Assisted tenant with complaint about noise",
+    "dateTime": "2024-11-15T20:00:00Z",
+    "status": "resolved",
+    "address": "606 Spruce St, Boston, MA"
+  },
+  {
+    "id": 10,
+    "activity": "Safety certificate updated for Building A",
+    "dateTime": "2024-11-11T10:00:00Z",
+    "status": "completed",
+    "address": "707 Palm Dr, Orlando, FL"
+  }
+]

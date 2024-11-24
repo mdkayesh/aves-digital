@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Cozy Apartment in City Center",
+    "category": "Residential",
+    "propertyType": "apartment",
+    "rentPrice": "1500",
+    "rentalStatus": "available"
+  },
+  {
+    "id": 2,
+    "title": "Luxury Villa by the Beach",
+    "category": "Luxury",
+    "propertyType": "house",
+    "rentPrice": "10000",
+    "rentalStatus": "rented"
+  },
+  {
+    "id": 3,
+    "title": "Spacious Commercial Office",
+    "category": "Office Space",
+    "propertyType": "commercial",
+    "rentPrice": "5000",
+    "rentalStatus": "available"
+  },
+  {
+    "id": 4,
+    "title": "Modern Flat with Garden View",
+    "category": "Residential",
+    "propertyType": "apartment",
+    "rentPrice": "1800",
+    "rentalStatus": "available"
+  },
+  {
+    "id": 5,
+    "title": "Industrial Warehouse",
+    "category": "Industrial",
+    "propertyType": "commercial",
+    "rentPrice": "8000",
+    "rentalStatus": "rented"
+  },
+  {
+    "id": 6,
+    "title": "Penthouse with Skyline View",
+    "category": "Luxury",
+    "propertyType": "apartment",
+    "rentPrice": "12000",
+    "rentalStatus": "available"
+  },
+  {
+    "id": 7,
+    "title": "Suburban Family Home",
+    "category": "Residential",
+    "propertyType": "house",
+    "rentPrice": "3500",
+    "rentalStatus": "rented"
+  },
+  {
+    "id": 8,
+    "title": "Compact Studio in Downtown",
+    "category": "Studio",
+    "propertyType": "unit",
+    "rentPrice": "2000",
+    "rentalStatus": "available"
+  },
+  {
+    "id": 9,
+    "title": "Retail Shopfront",
+    "category": "Retail",
+    "propertyType": "commercial",
+    "rentPrice": "7000",
+    "rentalStatus": "available"
+  },
+  {
+    "id": 10,
+    "title": "Charming Cottage",
+    "category": "Vacation Rental",
+    "propertyType": "house",
+    "rentPrice": "2500",
+    "rentalStatus": "rented"
+  }
+]
