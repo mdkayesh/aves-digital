@@ -3,15 +3,15 @@ import { format, getDate } from "date-fns";
 import { Badge } from "./ui/badge";
 import { ScrollArea } from "./ui/scroll-area";
 
-type ActivityStatus = "Completed" | "Pending" | "Resolved";
+// type ActivityStatus = "Completed" | "Pending" | "Resolved";
 
-interface Activity {
-  id: number;
-  activity: string;
-  dateTime: string; // ISO 8601 date-time format
-  status: ActivityStatus;
-  address: string;
-}
+// interface Activity {
+//   id: number;
+//   activity: string;
+//   dateTime: string; // ISO 8601 date-time format
+//   status: ActivityStatus;
+//   address: string;
+// }
 
 const ActivityList = () => {
   return (
